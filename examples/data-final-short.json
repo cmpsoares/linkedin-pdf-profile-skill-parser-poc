@@ -1,0 +1,181 @@
+{
+    "metadata":{
+       "author":"LinkedIn",
+       "creation_date":"2023-06-02 16:09:08",
+       "producer":"Apache FOP Version 2.2",
+       "subject":"Resume generated from profile",
+       "title":"Resume"
+    },
+    "data":{
+       "name":"Carlos Manuel Soares",
+       "title":"Card)",
+       "contacts":{
+          "address":"Lisboa, Lisbon, Portugal",
+          "phone":[
+             "+351 969 571 027",
+             "+44 20 8638 8170  (Work)"
+          ],
+          "email":[
+             "carlos@cmpsoares.com"
+          ],
+          "urls":[
+             "www.linkedin.com/in/cmpsoares",
+             "www.cmpsoares.com/",
+             "github.com/cmpsoares91/",
+             "stackexchange.com/"
+          ]
+       },
+       "summary":"As a computer science engineer with a multicultural background, I bring a unique perspective to the world of technology. Throughout my career, I have honed my technical skills in areas such as programming, system administration, DevOps, and cloud infrastructure while also developing my leadership and project management abilities. What sets me apart is my passion for continuous learning and my willingness to take on new challenges. Every opportunity is a chance to improve myself and make a difference, and I am always seeking ways to stand out from the crowd. If you're looking for a driven and knowledgeable professional to join your team or collaborate on a project, I would be thrilled to connect with you. Let's work together to achieve our goals and create a brighter future.",
+       "skills":{
+          "top_skills":[
+             "OpenAI",
+             "ChatGPT",
+             "Terraform"
+          ],
+          "languages":{
+             "Portuguese":"Native or Bilingual",
+             "Dutch":"Native or Bilingual",
+             "English":"Professional Working",
+             "French":"Elementary"
+          },
+          "certifications":"",
+          "education":[
+             {
+                "school":"ISCTE - Instituto Universit\u00e1rio de Lisboa",
+                "degree":"Master of Engineering (M.Eng.), Computer Engineering",
+                "attendance":{
+                   "text":"2014 - 2016",
+                   "start":"2014",
+                   "end":"2016"
+                }
+             },
+             {
+                "school":"Instituto Superior Manuel Teixeira Gomes",
+                "degree":"Bachelor's degree, IT Engineer, IT Engineer",
+                "attendance":{
+                   "text":"2011 - 2014",
+                   "start":"2011",
+                   "end":"2014"
+                }
+             }
+          ],
+          "skills":[
+             {
+                "technology":"Hugo",
+                "skill":"Web Development",
+                "category":"Technologies",
+                "companies":[
+                   "CMPSOARES LDA."
+                ],
+                "total_exposure":"2 years 8 months",
+                "total_exposure_days":973
+             },
+             {
+                "technology":"WordPress",
+                "skill":"Web Development",
+                "category":"Technologies",
+                "companies":[
+                   "CMPSOARES LDA."
+                ],
+                "total_exposure":"2 years 8 months",
+                "total_exposure_days":973
+             },
+             {
+                "technology":"Woo Commerce",
+                "skill":"Web Development",
+                "category":"Technologies",
+                "companies":[
+                   "CMPSOARES LDA."
+                ],
+                "total_exposure":"2 years 8 months",
+                "total_exposure_days":973
+             },
+             {
+                "technology":"HTML",
+                "skill":"Web Development",
+                "category":"Technologies",
+                "companies":[
+                   "CMPSOARES LDA."
+                ],
+                "total_exposure":"2 years 8 months",
+                "total_exposure_days":973
+             },
+             {
+                "technology":"CSS",
+                "skill":"Web Development",
+                "category":"Technologies",
+                "companies":[
+                   "CMPSOARES LDA."
+                ],
+                "total_exposure":"2 years 8 months",
+                "total_exposure_days":973
+             },
+             {
+                "technology":"Flutter",
+                "skill":"Web Development",
+                "category":"Technologies",
+                "companies":[
+                   "CMPSOARES LDA."
+                ],
+                "total_exposure":"2 years 8 months",
+                "total_exposure_days":973
+             },
+             {
+                "technology":"Ansible",
+                "skill":"Infrastructure Management",
+                "category":"Technologies",
+                "companies":[
+                   "CMPSOARES LDA.",
+                   "Truphone",
+                   "Siemens Digital Industries Software",
+                   "VAKT Global Ltd",
+                   "Sky Technology Centre - Portugal"
+                ],
+                "total_exposure":"4 years 8 months",
+                "total_exposure_days":1648
+             }
+          ]
+       },
+       "experience":[
+          {
+             "company":"CMPSOARES LDA.",
+             "title":"Chief Executive Officer",
+             "dates":{
+                "text":"November 2020 - Present  (2 years 8 months)",
+                "start":"November 2020",
+                "end":"Jun 2023",
+                "duration":"2 years 8 months",
+                "present":true
+             },
+             "location":"Lisbon, Portugal",
+             "description":"CMPSOARES is a consulting company dedicated to assisting companies in developing the services they need. We focus on digitally transforming the business and helping to migrate to the cloud, renew legacy applications and train professionals in achieving the latest practices in productivity, devops, distributed systems, cloud software and specialized AI solutions. Skills & tools: - Business Management: Finance, Marketing, Operations - Web Development: Hugo, WordPress, Woo Commerce, HTML, CSS, Flutter    - Infrastructure Management: Ansible, Docker, Kubernetes, AWS, Raspberry PI, terraform  - Service Development: Go, Python, Dart - Blockchain Technologies: Chia Network, Helium Network - Integrations: Telegram API, Discord API, TIDIO, Binance API, OpenAI API - Training Professionals: Microservices, Docker, YAML, Kubernetes, DevOps"
+          },
+          {
+             "company":"Avenue Code",
+             "title":"DevOps Engineer",
+             "dates":{
+                "text":"September 2022 - March 2023  (7 months)",
+                "start":"September 2022",
+                "end":"March 2023",
+                "duration":"7 months",
+                "present":false
+             },
+             "location":"Avenue Code is a global software consulting firm that helps businesses",
+             "description":"navigate the digital landscape and create meaningful customer experiences. They offer a range of services, including digital strategy, product design, engineering, and data analytics, and work with clients across various industries to deliver innovative solutions that drive business results. Avenue Code prides itself on its agile, collaborative approach and commitment to delivering value to its clients through a culture of continuous learning and improvement. Subcontracted by AC as a service provider for their clients on DevOps, IaC and Continuous Integration."
+          },
+          {
+             "company":"Truphone",
+             "title":"DevOps Engineer",
+             "dates":{
+                "text":"September 2022 - February 2023  (6 months)",
+                "start":"September 2022",
+                "end":"February 2023",
+                "duration":"6 months",
+                "present":false
+             },
+             "location":"Lisbon, Portugal",
+             "description":"Truphone is a global telecommunications company that offers innovative mobile technology solutions for individuals and businesses. Founded in 2006, Truphone has developed a range of advanced products and services that use eSIM technology to provide seamless, secure, and cost-effective connectivity worldwide. Truphone operates in over 190 countries, providing local connectivity for voice, data, and SMS services, as well as IoT solutions for businesses. The company has developed partnerships with major mobile operators, which allows it to provide a seamless user experience to its customers, regardless of their location. Truphone's services and solutions are designed to meet the needs of a wide range of users, from individual consumers to large enterprises. With a focus on innovation, security, and customer service, Truphone is well-positioned    to continue to lead the industry in the development of cutting-edge mobile technology solutions. Team: TWS - Build/Continuous Integration Responsibilities: - Design, integrate, deploy, and maintain the core infrastructure and systems (GitLab and Nexus instances and their pipelines) - Deliver the tools to enable the best developer experience. - Automate all routine work (toil), eliminating human intervention from repetitive mechanical activity - Create and maintain relevant documentation for peers and users (e.g., handbooks, tutorials) - Support other engineering teams, onboarding, advocating for best practices and assisting in debugging production outages - Support the commitment with high availability and reliability, participating in 24x7 on-call production support Skills & tools: - Virtualized compute infrastructure (VMware ESXi) - Infrastructure as Code (IaC) and config management/automation (Terraform and Ansible) - Continuous Integration (GitLab and Nexus)  - Linux system administration (Bash, systemd, etc.) - Public cloud services (AWS) - Large-scale distributed systems"
+          }
+       ]
+    }
+ }
